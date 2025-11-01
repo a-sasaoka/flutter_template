@@ -1,2 +1,3 @@
-# flutter_template
-Flutterのテンプレートプロジェクト
+# Flutterのテンプレートプロジェクト
+
+Flutter開発のテンプレートとなるプロジェクトを作成していきます。
